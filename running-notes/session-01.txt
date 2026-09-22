@@ -157,3 +157,4 @@ highly available, auto scale, security
 cost optimisation
 
 build and release -> devops process and devops team
+

@@ -1,4 +1,4 @@
-Why everyone is cloud now?
+:wqWhy everyone is cloud now?
 ==========================
 On Premise
 
@@ -127,3 +127,4 @@ ssh-keygen -f joindevops
 https://www.facebook.com/ -> HTTPS
 
 SSH -> you will get server terminal access, secure shell
+
